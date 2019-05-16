@@ -1,0 +1,11 @@
+*.png
+*.jpeg
+
+__pycache__
+dataset/
+checkpoint/
+
+# checkpoints
+*.dt
+*.tar
+*.zip
